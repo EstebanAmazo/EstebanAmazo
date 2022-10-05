@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Esteban Amazo
-=====================================================================================================================================
+Hi 👋 My name is Esteban Amazo
+==============================
 
 Front-End Developer
 -------------------
 
-I have been learning to code for more than a year, I have focused on front-end development with React.js. I have done several projects to gain experience as a front-end developer, i'm on the path to fullstack with Java Spring-Boot.
+I have been learning to code for more than a year, I have focused on front-end development with React.js. I have done several projects to gain experience as a front-end developer, my goal is to become a fullstack developer with Java Spring-Boot.
 
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [estebanamazo.app](http://estebanamazo.netlify.app)
