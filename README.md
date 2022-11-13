@@ -7,7 +7,7 @@ Front-End Developer
 I have been learning to code for more than a year, I have focused on front-end development with React.js. I have done several projects to gain experience as a front-end developer, my goal is to become a fullstack developer with Java Spring-Boot.
 
 * 🌍  I'm based in Colombia
-* 🖥️  See my portfolio at [estebanamazo.app](http://estebanamazo.vercel.app)
+* 🖥️  See my portfolio at [estebanamazo.app](https://estebanamazo.netlify.app/)
 * ✉️  You can contact me at [bymzno@gmail.com](mailto:bymzno@gmail.com)
 * 🧠  I'm learning NextJs, PostgreSQL Database and Java☕
 
