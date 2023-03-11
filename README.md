@@ -9,7 +9,7 @@ I have been learning to code for more than a year, I have focused on front-end d
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [estebanamazo.app](https://estebanamazo.netlify.app/)
 * ✉️  You can contact me at [bymzno@gmail.com](mailto:bymzno@gmail.com)
-* 🧠  I'm learning C#, SQL Server Database and C# -.NET☕
+* 🧠  I'm learning C#, SQL Server Database and C# - .NET☕
 
 ### Skills
 
