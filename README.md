@@ -4,7 +4,7 @@ Hi 👋 My name is Esteban Amazo
 Web Developer
 -------------------
 
-I have been learning to code for more than a year, I have focused on front-end development with React.js. I have done several projects to gain experience as a front-end developer, my goal is to become a fullstack developer with C# - .NET
+I have been learning to code for about two years, I have focused on front-end development with React.js. I have done several projects to gain experience as a front-end developer, my goal is to become a fullstack developer with C# - .NET
 
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [estebanamazo.app](https://estebanamazo.netlify.app/)
