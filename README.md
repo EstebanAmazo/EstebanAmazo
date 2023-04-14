@@ -1,7 +1,7 @@
 Hi 👋 My name is Esteban Amazo
 ==============================
 
-Front-End Developer
+Web Developer
 -------------------
 
 I have been learning to code for more than a year, I have focused on front-end development with React.js. I have done several projects to gain experience as a front-end developer, my goal is to become a fullstack developer with C# - .NET
