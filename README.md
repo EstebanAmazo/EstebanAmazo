@@ -21,3 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=estebanamazo&show_icons=true&locale=en&layout=compact" alt="estebanamazo" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=estebanamazo&" alt="estebanamazo" /></p>
