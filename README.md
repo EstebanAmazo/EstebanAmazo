@@ -36,19 +36,16 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/6e/b3/c7/6eb3c775c064baff9b9f085e8f3f91d1.gif"  />
-
-###
-
-<div align="right">
-  <img src="https://streak-stats.demolab.com?user=EstebanAmazo&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EstebanAmazo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EstebanAmazo&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EstebanAmazo&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=EstebanAmazo&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EstebanAmazo/EstebanAmazo/output/snake.svg" alt="Snake animation" />
+<div align="center" >
+  <img style="border-radius:1rem" height="141" src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2019/08/bf1770f704af814c3da78b0866b286c2.gif?fit=540%2C304&ssl=1"  />
+</div>
 
 ###
